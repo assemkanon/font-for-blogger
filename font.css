@@ -1,8 +1,7 @@
-/* arabic */
 @font-face {
 font-family: "JF Flat Regular";
-  font-style: normal;
-  font-weight: 400;
-  font-stretch: 100%;
-src: url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/JF-Flat-regular.woff") format("woff");
+src: url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/JF-Flat-regular.eot");
+src: url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/JF-Flat-regular.woff") format("woff"),
+url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/JF-Flat-regular.ttf") format("truetype"),
+url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b763734d98d9ab9c9c9b62470b780bfec/JF-Flat-regular.svg#filename") format("svg");
 }
