@@ -33,11 +33,10 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
 }
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 */
-
 @font-face {
-	font-family: 'MadaniArabic';
-	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabic-Black.eot');
-	src: local('☺'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabic-Black.woff') format('woff'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabic-Black.ttf') format('truetype'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabic-Black.svg') format('svg');
+	font-family: 'Conv_Madani Arabic Black';
+	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Madani%20Arabic%20Black.eot');
+	src: local('☺'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Madani%20Arabic%20Black.woff') format('woff'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Madani%20Arabic%20Black.ttf') format('truetype'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Madani%20Arabic%20Black.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
