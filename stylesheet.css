@@ -74,3 +74,12 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
     font-style: normal;
     font-display: swap;
 }
+
+
+@font-face {
+	font-family: 'STC-Regular';
+	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/STC-Regular.eot');
+	src: local('☺'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/STC-Regular.woff') format('woff'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/STC-Regular.ttf') format('truetype'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/STC-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
