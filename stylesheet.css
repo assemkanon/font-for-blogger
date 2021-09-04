@@ -1,6 +1,3 @@
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-
-
 @font-face {
 	font-family: 'AraJozoor';
 	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/AraJozoor-Regular.eot');
@@ -9,9 +6,6 @@
 	font-weight: normal;
 	font-style: normal;
 }
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-
-
 @font-face {
 font-family: "JF Flat Regular";
 src: url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/JF-Flat-regular.eot");
@@ -21,9 +15,6 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
 	font-weight: normal;
 	font-style: normal;
 }
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-
-
 @font-face {
 	font-family: 'Taleeq';
 	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Taleeq-Regular.eot');
@@ -31,9 +22,6 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
 	font-weight: normal;
 	font-style: normal;
 }
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-
-
 @font-face {
 	font-family: 'Conv_Madani Arabic Black';
 	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Madani%20Arabic%20Black.eot');
@@ -41,9 +29,6 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
 	font-weight: normal;
 	font-style: normal;
 }
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-
-
 @font-face {
 	font-family: 'Madani1';
 	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabicRegular.eot');
@@ -51,16 +36,12 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
 	font-weight: normal;
 	font-style: normal;
 }
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 @font-face {
 	font-family: 'Madani';
 	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Aqlaam%20Regular.otf');
 	font-weight: normal;
 	font-style: normal;
 }
-
-
-
 @font-face {
     font-family: 'DINArabic';
     src:url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/DINArabic.woff') format('woff'),
@@ -74,8 +55,6 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
     font-style: normal;
     font-display: swap;
 }
-
-
 @font-face {
 	font-family: 'STC-Regular';
 	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/STC-Regular.eot');
