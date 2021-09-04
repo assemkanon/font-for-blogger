@@ -47,7 +47,7 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
 @font-face {
 	font-family: 'Madani';
 	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabicRegular.eot');
-	src: local('☺'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabicRegular.woff') format('woff'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabicRegular.ttf') format('truetype'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabicRegular.svg') format('svg');
+	src: url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabicRegular.woff') format('woff'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabicRegular.ttf') format('truetype'), url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/MadaniArabicRegular.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
