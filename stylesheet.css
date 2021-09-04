@@ -58,3 +58,19 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
 	font-weight: normal;
 	font-style: normal;
 }
+
+
+
+@font-face {
+    font-family: 'DINArabic';
+    src:url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/DINArabic.woff') format('woff'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/DINArabic.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/DINArabic.svg#DINArabic') format('svg'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/DINArabic.eot'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/DINArabic.eot?#iefix') format('embedded-opentype'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/DINArabic.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
