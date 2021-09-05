@@ -62,3 +62,16 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
 	font-weight: normal;
 	font-style: normal;
 }
+
+@font-face {
+    font-family: 'coronp';
+    src:url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/123456.woff') format('woff'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/123456.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/123456.eot'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/123456.eot?#iefix') format('embedded-opentype'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/123456.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
