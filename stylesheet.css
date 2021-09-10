@@ -87,3 +87,16 @@ url("https://raw.githubusercontent.com/assemkanon/font-for-blogger/56a9182b76373
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'Fairuz-Light';
+    src:url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Fairuz-Light.woff') format('woff'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Fairuz-Light.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Fairuz-Light.eot'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Fairuz-Light.eot?#iefix') format('embedded-opentype'),
+        url('https://raw.githubusercontent.com/assemkanon/font-for-blogger/master/Fairuz-Light.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
